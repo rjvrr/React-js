@@ -1,0 +1,16 @@
+import MyButton from "./button";
+/*we will start by writing components, they are various components in React--> functional components, class components etc*/
+function App(){
+  //this is not HTML, although it resembles HTML
+  return <div>
+
+    <h1> 
+    Hello World
+    </h1>
+    <MyButton></MyButton>
+
+  </div>
+  
+}
+
+export default App; //same name as that of component
