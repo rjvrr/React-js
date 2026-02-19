@@ -1,4 +1,6 @@
 import MyButton from "./button";
+import Hello from "./Hello";
+import Random from "./Random";
 /*we will start by writing components, they are various components in React--> functional components, class components etc*/
 function App(){
   //this is not HTML, although it resembles HTML
@@ -8,6 +10,10 @@ function App(){
     Hello World
     </h1>
     <MyButton></MyButton>
+
+    <Hello></Hello>
+
+    <Random/>
 
   </div>
   
