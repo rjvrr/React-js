@@ -1,0 +1,9 @@
+.calculator {
+  border: 1px solid black;
+  width: 200px;
+ 
+  justify-self: center;
+  text-align: center;
+  border-radius: 10px;
+}
+
