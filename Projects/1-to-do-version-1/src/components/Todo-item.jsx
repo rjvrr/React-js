@@ -1,13 +1,13 @@
-/*function Todoitem1(){
+function Todoitem({todoName , todoDate}){
   return (
     <div class="container">
       <div class="row kg-row">
         <div class="col-6">
-          Buy milk
+          {todoName}
         </div>
 
         <div class="col-4">
-          20/10/2026
+          {todoDate}
         </div>
 
         <div class="col-2">
@@ -18,4 +18,4 @@
   )
 }
 
-export default Todoitem1;*/
+export default Todoitem;

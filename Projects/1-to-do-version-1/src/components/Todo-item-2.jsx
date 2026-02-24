@@ -1,5 +1,5 @@
 
-function Todoitem2(){
+/*function Todoitem2(){
   return (
     <div class="container">
       <div class="row kg-row">
@@ -19,4 +19,4 @@ function Todoitem2(){
   )
 }
 
-export default Todoitem2;
+export default Todoitem2;*/
