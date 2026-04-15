@@ -1,0 +1,29 @@
+.HeadContainer {
+  display: flex;
+  justify-content: space-between;
+  border: 1px solid black;
+  align-items: center;
+  height: 75px;
+}
+
+.icon{
+  width: 50px;
+  border-radius: 30px;
+  margin: 20px;
+}
+.nav-items > ul{
+  list-style-type: none;
+  display: flex;
+  
+}
+.nav-items > ul > li{
+  padding: 10px;
+  margin: 70px;
+}
+
+.res-con{
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-between;
+  margin: 20px;
+}
