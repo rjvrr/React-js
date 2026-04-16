@@ -1,6 +1,7 @@
 import Header from './components/Header';
 import './App.css';
-import {ResCard} from './components/ResCard';
+import {ResLayout} from './components/ResLayout';
+import ResCard from './components/ResCard';
 
 
 function App() {
@@ -8,7 +9,7 @@ function App() {
   return (
     <>
       <Header></Header>
-      <ResCard></ResCard>
+      <ResLayout/>
     </>
   )
 }
